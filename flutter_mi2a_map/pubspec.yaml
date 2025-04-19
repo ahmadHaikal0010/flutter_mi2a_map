@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter: ^2.12.1
+  custom_info_window: ^1.0.1
+  flutter_rating_bar: ^4.0.1
 
 dev_dependencies:
   flutter_test:
@@ -20,3 +22,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/map_style/
+    - assets/images/
